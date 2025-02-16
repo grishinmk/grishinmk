@@ -47,9 +47,7 @@ I am eager to leverage my skills in a professional setting, contribute to a secu
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
       <img src="https://img.shields.io/badge/Command_line_interface_(CLI)-00ADD8?style=for-the-badge&logo=go&color=000000" alt="Command line interface (CLI)" />
       <img src="https://img.shields.io/badge/SQL-F05032?style=for-the-badge&logo=git&color=000000" alt="SQL" />
-      <img src="https://img.shields.io/badge/"Bash-D70A53?style=for-the-badge&logo=debian&color=000000" alt="Bash" />
- 
-
+      
   </div>
 </div>
 
@@ -63,7 +61,6 @@ I am eager to leverage my skills in a professional setting, contribute to a secu
 ## Certifications  
 - [Foundations of Cybersecurity](https://coursera.org/share/1f289cb20ea51254edffff3c4ce4ca3b)
 - - [Play It Safe: Manage Security Risks](https://coursera.org/share/cbdd12e0bedf4c73f5352d28edaf7d49)
-- <img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-blue?style=for-the-badge&logo=ec-council&color=000000" alt="CEH Certification" />
  
 ## Projects  
 

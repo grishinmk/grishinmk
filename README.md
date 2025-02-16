@@ -57,14 +57,11 @@ I am eager to leverage my skills in a professional setting, contribute to a secu
 <h2 id="Certifications" align=''> Certifications </h2>
 
 <div>
-# Move the certificate into your portfolio folder
-mv /path/to/certificate.pdf /path/to/your/portfolio/
-
-# Add the certificate to Git
-git add certificate.pdf
+# Foundations of Cybersecurity
+# Play It Safe: Manage Security Risks
 
 # Google Cybersecurity Professional Certificate"
-git commit -m "Added Google Cybersecurity Professional Certificate"
+
 
 </div>
 

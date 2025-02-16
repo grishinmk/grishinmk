@@ -52,7 +52,7 @@ I am eager to leverage my skills in a professional setting, contribute to a secu
 </div>
 
 ---
-<h2 id="Certifications" align=''> Certifications </h2>
+
 
 <div>
 

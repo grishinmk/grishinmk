@@ -63,7 +63,7 @@ mv /path/to/certificate.pdf /path/to/your/portfolio/
 # Add the certificate to Git
 git add certificate.pdf
 
-# Commit the changes with a message
+# Google Cybersecurity Professional Certificate"
 git commit -m "Added Google Cybersecurity Professional Certificate"
 
 </div>

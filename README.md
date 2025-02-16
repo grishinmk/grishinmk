@@ -24,7 +24,7 @@ I am eager to leverage my skills in a professional setting, contribute to a secu
 - **Name**: grishin keepalli
 - **From**: India
 - **entry level cybersecurity professional**  
-- I have experience in vulnerability assessment, a phishing email simulation.
+- I have experience in a phishing email simulation, Identify the primary threats, risks, and vulnerabilities to business operations, Examine how organizations use security frameworks and controls to protect business operations, Define commonly used Security Information and Event Management (SIEM) tools, Use a playbook to respond to threats, risks, and vulnerabilities.
 - Continuously improving my knowledge of **Website Vulnerabilities** and **Cybersecurity Skills**.
 - I’m currently learning and exploring **advanced hacking techniques**, **networking**, **python**, and **cybersecurity certifications**.
 

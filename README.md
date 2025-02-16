@@ -65,7 +65,7 @@ I am eager to leverage my skills in a professional setting, contribute to a secu
 - - [Play It Safe: Manage Security Risks](https://coursera.org/share/cbdd12e0bedf4c73f5352d28edaf7d49)  
  
 ## Projects  
-- [My Security Analysis Project](https://github.com/yourusername/security-project)
+
 
 </div>
 

@@ -39,15 +39,15 @@ I am eager to leverage my skills in a professional setting, contribute to a secu
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Information Security (INFOSEC)" />
-      <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="NIST Risk Management Framework (RMF)" />
-      <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Security Audits" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="NIST Cybersecurity Framework (CSF)" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Incident Response Playbooks" />
+      <img src="https://img.shields.io/badge/Information_Security_(INFOSEC)-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Information Security (INFOSEC)" />
+      <img src="https://img.shields.io/badge/NIST_Risk_Management_Framework_(RMF)-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="NIST Risk Management Framework (RMF)" />
+      <img src="https://img.shields.io/badge/Security_Audits-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Security Audits" />
+      <img src="https://img.shields.io/badge/NIST_Cybersecurity_Framework_(CSF)-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="NIST Cybersecurity Framework (CSF)" />
+      <img src="https://img.shields.io/badge/Incident_Response_Playbooks-3776AB?style=for-the-badge&logo=python&color=000000" alt="Incident Response Playbooks" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=000000" alt="Command line interface (CLI)" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="SQL" />
-      <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&color=000000" alt="Bash" />
+      <img src="https://img.shields.io/badge/Command_line_interface_(CLI)-00ADD8?style=for-the-badge&logo=go&color=000000" alt="Command line interface (CLI)" />
+      <img src="https://img.shields.io/badge/SQL-F05032?style=for-the-badge&logo=git&color=000000" alt="SQL" />
+      <img src="https://img.shields.io/badge/"Bash-D70A53?style=for-the-badge&logo=debian&color=000000" alt="Bash" />
  
 
   </div>
@@ -62,7 +62,8 @@ I am eager to leverage my skills in a professional setting, contribute to a secu
 
 ## Certifications  
 - [Foundations of Cybersecurity](https://coursera.org/share/1f289cb20ea51254edffff3c4ce4ca3b)
-- - [Play It Safe: Manage Security Risks](https://coursera.org/share/cbdd12e0bedf4c73f5352d28edaf7d49)  
+- - [Play It Safe: Manage Security Risks](https://coursera.org/share/cbdd12e0bedf4c73f5352d28edaf7d49)
+- <img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-blue?style=for-the-badge&logo=ec-council&color=000000" alt="CEH Certification" />
  
 ## Projects  
 

@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-## Hi there 👋
 
-I'm **[`grishin keepalli`]**, ChatGPT
+I'm **[`grishin keepalli`]**, 
 
 You said:
 Statement for portfolio cybersecurity professional certificate 

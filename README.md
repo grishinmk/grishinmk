@@ -57,11 +57,15 @@ I am eager to leverage my skills in a professional setting, contribute to a secu
 <h2 id="Certifications" align=''> Certifications </h2>
 
 <div>
-# Foundations of Cybersecurity
-# Play It Safe: Manage Security Risks
 
-# Google Cybersecurity Professional Certificate"
 
+
+## Certifications  
+- [Foundations of Cybersecurity](https://coursera.org/share/548e7f24c41847097afd4865df992a8e)
+- - [Play It Safe: Manage Security Risks](https://coursera.org/share/cbdd12e0bedf4c73f5352d28edaf7d49)  
+ 
+## Projects  
+- [My Security Analysis Project](https://github.com/yourusername/security-project)
 
 </div>
 

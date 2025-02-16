@@ -57,7 +57,14 @@ I am eager to leverage my skills in a professional setting, contribute to a secu
 <h2 id="Certifications" align=''> Certifications </h2>
 
 <div>
-<img src="https://img.shields.io/badge/OSCP-Certified-red?style=for-the-badge&color=000000" alt="Foundations of Cybersecurity />
+# Move the certificate into your portfolio folder
+mv /path/to/certificate.pdf /path/to/your/portfolio/
+
+# Add the certificate to Git
+git add certificate.pdf
+
+# Commit the changes with a message
+git commit -m "Added Google Cybersecurity Professional Certificate"
 
 </div>
 

@@ -61,7 +61,7 @@ I am eager to leverage my skills in a professional setting, contribute to a secu
 ## Certifications  
 - [Foundations of Cybersecurity](https://coursera.org/share/1f289cb20ea51254edffff3c4ce4ca3b)
 -  [Play It Safe: Manage Security Risks](https://coursera.org/share/cbdd12e0bedf4c73f5352d28edaf7d49)
--  [Mastercard Cybersecurity virtual experience program on Forage - February 2025]()
+-  [Mastercard Cybersecurity virtual experience program on Forage - February 2025]
 -  [googel cybersecurity professional certificate](in progass)
 
 

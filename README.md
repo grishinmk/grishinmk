@@ -2,13 +2,6 @@
 
 
 I'm **[`grishin keepalli`]**, 
-
-You said:
-Statement for portfolio cybersecurity professional certificate 
-ChatGPT said:
-Here's a professional statement for your cybersecurity portfolio highlighting your completion of the Google Cybersecurity Professional Certificate:
-
-Cybersecurity Professional Statement
 I am a dedicated cybersecurity professional with a strong foundation in security principles, threat analysis, risk management, and incident response. I successfully completed the Google Cybersecurity Professional Certificate, gaining hands-on experience with security tools such as SIEM, intrusion detection systems, and endpoint protection.
 
 Through this certification, I developed practical skills in identifying vulnerabilities, analyzing security incidents, and implementing protective measures to secure networks and systems. My expertise includes working with Linux, Python, and security frameworks like NIST and ISO 27001.
